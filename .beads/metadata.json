@@ -1,7 +1,6 @@
 {
   "database": "dolt",
   "backend": "dolt",
-  "dolt_mode": "server",
-  "dolt_database": "SkillSpoke_ddv",
-  "project_id": "56a82d48-ea42-430a-b15f-591bd7302090"
+  "dolt_mode": "embedded",
+  "dolt_database": "beads"
 }
